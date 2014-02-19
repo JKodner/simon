@@ -104,7 +104,6 @@ while True:
 	system('clear')
 	
 	print "*" * 30
-	
 	print col.format("Iteration <light_cyan>#%d</light_cyan> Completed" % count)
 	raw_input(col.format("<purple>Press Anything to Continue</purple>"))
 	
